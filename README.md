@@ -23,7 +23,6 @@
 I am a MERN Full Stack Developer from the U.S.
 
 - 🔭 I’m currently contributing to frontend and backend development for building web applications
-- 👯 I’m a member of FLGW a group of women that are Frontend Developers 
 - 💬 I'm exploring becoming a blogger in the Tech space
 - ⚡ Fun fact: When I'm not coding, I'm working as a model & commerical actress
 
