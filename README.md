@@ -23,7 +23,7 @@
 I am a Software Engineer from the U.S.
 
 - 🔭 I’m currently contributing to frontend and backend development for building web applications
-- 💬 I'm exploring becoming a blogger in the Tech space
+- 💬 I'm open to collaborate on open source projects
 - ⚡ Fun fact: When I'm not coding, I'm working as a model & commerical actress
 
 ---
