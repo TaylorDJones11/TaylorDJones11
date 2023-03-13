@@ -20,7 +20,7 @@
 
 ### 👩🏽‍💻  About Me :
 
-I am a Full Stack Developer from the U.S.
+I am a Software Engineer from the U.S.
 
 - 🔭 I’m currently contributing to frontend and backend development for building web applications
 - 💬 I'm exploring becoming a blogger in the Tech space
