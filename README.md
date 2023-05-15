@@ -22,7 +22,7 @@
 
 I'm a Software Engineer from the U.S. After having lived in four other countries, I'm passionate about learning and connecting the world through tech. I'm looking to collaborate on fun and challenging projects. 
 
-- 💻 I’m currently learning Javascript, Reactjs, and Nextjs.
+- 💻 I’m currently learning Reactjs, Nextjs, and Firebase.
 - ☺️ I'm open to opportunities involving open source projects, hackathons, and apprenticeships
 - ⚡ Fun fact: When I'm not coding, I'm working as a model & commerical actress
 - 💼 Job interests: Software Engineer or Frontend Developer
