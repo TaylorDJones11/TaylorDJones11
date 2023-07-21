@@ -6,12 +6,14 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/-taylor-d-jones/">
-    <img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/TayTechJ">
-    <img src="https://img.shields.io/badge/Twitter-pink?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://taylordjones.com/">
+    <img src="https://img.shields.io/badge/Website-pink?style=for-the-badge&logo=website&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+
 
 <h1 align="center">
   ✨ Hello I'm Taylor J! ✨
