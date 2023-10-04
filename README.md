@@ -24,7 +24,7 @@
 
 I'm a Software Engineer from the U.S. After having lived in four other countries, I'm passionate about learning and connecting the world through tech. I'm looking to collaborate on fun and challenging projects. 
 
-- 💻 I’m currently learning Reactjs, Nextjs, Supabase, and Cloud Fundamentals
+- 💻 I’m currently learning Nextjs, Supabase, and Cloud Fundamentals
 - ☺️ I'm open to opportunities involving open-source projects, hackathons, and apprenticeships
 - ⚡ Fun fact: When I'm not coding, I'm working as a model & commercial actress
 - 💼 Job interests: Software Engineer or Frontend Developer
@@ -54,4 +54,9 @@ I'm a Software Engineer from the U.S. After having lived in four other countries
     <img src="https://img.shields.io/badge/Hashnode-pink?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
+---
+
+### 🚀 Hackathon Badges :
+
+[![An image of @taylordjones11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/taylordjones11)](https://holopin.io/@taylordjones11)
 
