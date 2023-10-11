@@ -17,7 +17,6 @@
 
 <h1 align="center">
   ✨ Hello I'm Taylor J! ✨
-  
 </h1>
 
 ### 👩🏽‍💻  About Me :
