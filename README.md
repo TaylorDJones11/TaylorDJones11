@@ -26,7 +26,7 @@ I'm a Software Engineer from the U.S. After having lived in four other countries
 - 💻 I’m currently learning Nextjs, Supabase, and Cloud Fundamentals
 - ☺️ I'm open to opportunities involving open-source projects, hackathons, and apprenticeships
 - ⚡ Fun fact: When I'm not coding, I'm working as a model & commercial actress
-- 💼 Job interests: Software Engineer or Frontend Developer
+- 💼 Job interests: Software Engineer, Fullstack Developer or Frontend Developer
 
 
 ---
