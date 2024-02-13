@@ -48,7 +48,7 @@ I'm a Software Engineer from the U.S. After having lived in four other countries
 ### 💻  Blog Posts :
 
  <a href="https://taytechj.hashnode.dev/">
-    <img src="https://img.shields.io/badge/Hashnode-pink?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Devto-pink?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
 ---
