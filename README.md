@@ -35,7 +35,7 @@ I'm a Software Engineer from the U.S. After having lived in four other countries
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,figma,tailwind,react,nextjs,nodejs,express,firebase,mongo" />
+    <img src="https://skillicons.dev/icons?i=git,figma,tailwind,react,nextjs,nodejs,express,firebase,mongo,aws" />
   </a>
 </p>
 
